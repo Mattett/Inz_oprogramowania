@@ -9,7 +9,9 @@ protected:
 	string warunki_umowy;
 public:
 	Umowa();
-	Umowa(string warunki);
+	Umowa(string);
 	~Umowa();
+
+	friend ostream & operator<<(ostream&, Umowa &);
 };
 
