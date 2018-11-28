@@ -16,6 +16,7 @@ public:
 	Oferta(double, double, string);
 	~Oferta();
 
+	friend Main;
 	friend ostream & operator<<(ostream&, Oferta &);
 
 };
