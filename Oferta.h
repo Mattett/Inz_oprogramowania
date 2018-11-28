@@ -1,12 +1,10 @@
 #pragma once
 #include "MainHeader.h"
 
-
-
 class Oferta
 {
 protected:
-	static int id_oferty;
+	 static int ID_oferty;
 	double koszt_oferty;
 	double czas_trwania_oferty;
 	string opis_oferty;
