@@ -11,7 +11,7 @@ protected:
 public:
 	Mieszkanie();
 	Mieszkanie(string adres, double wartosc);
-	void zmienDane(string new_adres,double new_wartosc);
+	void zmienDane(string new_adres, double new_wartosc);
 	~Mieszkanie();
 };
 
