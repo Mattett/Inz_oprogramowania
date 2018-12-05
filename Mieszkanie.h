@@ -10,8 +10,10 @@ protected:
 	double wartosc_mieszkania;
 public:
 	Mieszkanie();
-	Mieszkanie(string adres, double wartosc);
-	void zmienDane(string new_adres,double new_wartosc);
 	~Mieszkanie();
+	Mieszkanie(string adres, double wartosc);
+	void zmienDane(string new_adres, double new_wartosc);
+	
+	friend class Klient;
 };
 

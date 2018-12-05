@@ -1,15 +1,15 @@
 #include "Umowa.h"
 
-unsigned int Umowa::ID_gen = 1;
 
 Umowa::Umowa()
 {
-	this->ID_umowy = ID_gen;
-	ID_gen++;
+	++ID_umowy;
+	this->warunki_umowy;
 }
 
-Umowa::Umowa(string warunki)
+Umowa::Umowa(Oferta warunki)
 {
+	++ID_umowy;
 	this->warunki_umowy = warunki;
 }
 

@@ -4,14 +4,15 @@
 class Umowa
 {
 protected:
-	static unsigned int ID_gen;
-	unsigned int ID_umowy;
-	string warunki_umowy;
+	static int ID_umowy;
+	Oferta warunki_umowy;
 public:
 	Umowa();
-	Umowa(string);
+	Umowa(Oferta);
 	~Umowa();
 
 	friend ostream & operator<<(ostream&, Umowa &);
+	friend class Klient;
+
 };
 
