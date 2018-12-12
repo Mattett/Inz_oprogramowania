@@ -11,9 +11,9 @@ protected:
 
 public:
 	Pracownik();
-	Oferta dodajOferte(double, double, string);
-	bool usunOferte();
-	Oferta modyfikujOferte();
+	bool dodajOferte(double, double, string, Baza &);
+	bool usunOferte(int, Baza&);
+	bool modyfikujOferte(int, Baza&);
 	~Pracownik();
 };
 
