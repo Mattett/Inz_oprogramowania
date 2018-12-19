@@ -5,15 +5,16 @@
 class Pracownik
 {
 protected:
-	static int id_pracownika;
+	static unsigned int id_gen;
+	unsigned int id_pracownika;
 	string nazwisko;
 	string imie;
 
 public:
 	Pracownik();
-	Oferta dodajOferte(double, double, string);
-	bool usunOferte();
-	Oferta modyfikujOferte();
+	bool dodajOferte(double, double, string, Baza &);
+	bool usunOferte(int, Baza&);
+	bool modyfikujOferte(int, Baza&);
 	~Pracownik();
 };
 
