@@ -2,14 +2,8 @@
 #include "Oferta.h"
 
 int Main() {
-	Oferta* tab_ofert = new Oferta[100];
-	return 0;
-}
+	Baza* B = new Baza();
 
-void przegladajOferty() {
 
-}
-
-Oferta wybierzOferte(int id) {
-
+	return 1;
 }

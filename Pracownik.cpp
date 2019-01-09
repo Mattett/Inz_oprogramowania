@@ -1,21 +1,37 @@
 #include "Pracownik.h"
 
-
+unsigned int Pracownik::id_gen = 1;
 
 Pracownik::Pracownik()
 {
+	this->id_pracownika = id_gen;
+	id_gen++;
 }
 
-Oferta Pracownik::dodajOferte(double price, double time, string description)
+bool Pracownik::dodajOferte(double cena, double czas, string opis, Baza &b)
 {
-	return Oferta::Oferta(price, time, description);
+	Oferta nowa;
+	nowa.koszt_oferty = cena;
+	nowa.czas_trwania_oferty = czas;
+	nowa.opis_oferty = opis;
+
+	cout << "Oferta " << nowa.id_oferty << " zostala dodana " << endl;
+		b.dodajOferte(nowa);
+	return true;
+}
+
+bool Pracownik::usunOferte(int, Baza &)
+{
+	return true;
 }
 
 
-Oferta Pracownik::modyfikujOferte()
-{
-	Oferta::przegladajOferty();
-	return Oferta();
+bool Pracownik::modyfikujOferte(int id, Baza &b)
+{	
+
+	
+	cout << "Oferta zmodyfikowana"<<endl;
+	return true;
 }
 
 Pracownik::~Pracownik()

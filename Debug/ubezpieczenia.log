@@ -1,0 +1,312 @@
+﻿  Umowa.cpp
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\mieszkanie.h(9): error C3646: 'adres_mieszkania': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\mieszkanie.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\mieszkanie.h(14): error C2061: syntax error: identifier 'string'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\mieszkanie.h(14): error C2535: 'Mieszkanie::Mieszkanie(void)': member function already defined or declared
+  \\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\mieszkanie.h(12): note: see declaration of 'Mieszkanie::Mieszkanie'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\mieszkanie.h(15): error C2061: syntax error: identifier 'string'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(10): error C3646: 'opis_oferty': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(14): error C2061: syntax error: identifier 'string'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(18): error C2143: syntax error: missing ';' before '&'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(18): error C2433: 'ostream': 'friend' not permitted on data declarations
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(18): error C2238: unexpected token(s) preceding ';'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(8): error C3646: 'imie': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(9): error C3646: 'nazwisko': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(10): error C3646: 'pesel': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(11): error C3646: 'adres_zamieszkania': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(16): error C2061: syntax error: identifier 'string'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(16): error C2535: 'Klient::Klient(void)': member function already defined or declared
+  \\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(15): note: see declaration of 'Klient::Klient'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(18): error C2061: syntax error: identifier 'Baza'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(19): error C3646: 'zawrzyjUmowe': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(19): error C2059: syntax error: '('
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(19): error C2238: unexpected token(s) preceding ';'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(20): error C2061: syntax error: identifier 'string'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(23): error C2143: syntax error: missing ';' before '&'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(23): error C2433: 'ostream': 'friend' not permitted on data declarations
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(23): error C2238: unexpected token(s) preceding ';'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.h(8): error C2143: syntax error: missing ';' before '<'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.h(8): error C2238: unexpected token(s) preceding ';'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.h(9): error C2143: syntax error: missing ';' before '<'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.h(9): error C2238: unexpected token(s) preceding ';'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.h(17): error C2061: syntax error: identifier 'Umowa'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.cpp(19): error C2679: binary '<<': no operator found which takes a right-hand operand of type 'Oferta' (or there is no acceptable conversion)
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(495): note: could be 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(475): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(455): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(435): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(415): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(395): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(375): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(355): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(335): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(315): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(290): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(270): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(236): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(216): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(209): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(202): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(196): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))'
+  \\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.cpp(16): note: or       'std::ostream &operator <<(std::ostream &,Umowa &)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(1019): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const std::error_code &)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(981): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>,Oferta>(std::basic_ostream<char,std::char_traits<char>> &&,const _Ty &)'
+          with
+          [
+              _Ty=Oferta
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(971): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,unsigned char)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(964): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const unsigned char *)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(957): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,signed char)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(950): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const signed char *)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(824): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(777): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(739): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(692): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+  \\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.cpp(19): note: while trying to match the argument list '(std::basic_ostream<char,std::char_traits<char>>, Oferta)'
+  Pracownik.cpp
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\mieszkanie.h(9): error C3646: 'adres_mieszkania': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\mieszkanie.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\mieszkanie.h(14): error C2061: syntax error: identifier 'string'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\mieszkanie.h(14): error C2535: 'Mieszkanie::Mieszkanie(void)': member function already defined or declared
+  \\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\mieszkanie.h(12): note: see declaration of 'Mieszkanie::Mieszkanie'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\mieszkanie.h(15): error C2061: syntax error: identifier 'string'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(8): error C3646: 'warunki_umowy': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(11): error C2460: 'Umowa::Oferta': uses 'Umowa', which is being defined
+  \\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(5): note: see declaration of 'Umowa'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(14): error C2143: syntax error: missing ';' before '&'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(14): error C2433: 'ostream': 'friend' not permitted on data declarations
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(14): error C2238: unexpected token(s) preceding ';'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(10): error C3646: 'opis_oferty': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(14): error C2061: syntax error: identifier 'string'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(18): error C2143: syntax error: missing ';' before '&'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(18): error C2433: 'ostream': 'friend' not permitted on data declarations
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(18): error C2238: unexpected token(s) preceding ';'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(8): error C3646: 'imie': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(9): error C3646: 'nazwisko': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(10): error C3646: 'pesel': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(11): error C3646: 'adres_zamieszkania': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(16): error C2061: syntax error: identifier 'string'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(16): error C2535: 'Klient::Klient(void)': member function already defined or declared
+  \\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(15): note: see declaration of 'Klient::Klient'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(18): error C2061: syntax error: identifier 'Baza'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(20): error C2061: syntax error: identifier 'string'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(23): error C2143: syntax error: missing ';' before '&'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(23): error C2433: 'ostream': 'friend' not permitted on data declarations
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(23): error C2238: unexpected token(s) preceding ';'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.h(8): error C2143: syntax error: missing ';' before '<'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.h(8): error C2238: unexpected token(s) preceding ';'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.h(9): error C2143: syntax error: missing ';' before '<'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.h(9): error C2238: unexpected token(s) preceding ';'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\pracownik.cpp(14): error C2039: 'opis_oferty': is not a member of 'Oferta'
+  \\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(5): note: see declaration of 'Oferta'
+  Oferta.cpp
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\mieszkanie.h(9): error C3646: 'adres_mieszkania': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\mieszkanie.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\mieszkanie.h(14): error C2061: syntax error: identifier 'string'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\mieszkanie.h(14): error C2535: 'Mieszkanie::Mieszkanie(void)': member function already defined or declared
+  \\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\mieszkanie.h(12): note: see declaration of 'Mieszkanie::Mieszkanie'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\mieszkanie.h(15): error C2061: syntax error: identifier 'string'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(8): error C3646: 'warunki_umowy': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(11): error C2460: 'Umowa::Oferta': uses 'Umowa', which is being defined
+  \\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(5): note: see declaration of 'Umowa'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(14): error C2143: syntax error: missing ';' before '&'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(14): error C2433: 'ostream': 'friend' not permitted on data declarations
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(14): error C2238: unexpected token(s) preceding ';'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(8): error C3646: 'imie': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(9): error C3646: 'nazwisko': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(10): error C3646: 'pesel': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(11): error C3646: 'adres_zamieszkania': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(16): error C2061: syntax error: identifier 'string'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(16): error C2535: 'Klient::Klient(void)': member function already defined or declared
+  \\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(15): note: see declaration of 'Klient::Klient'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(18): error C2061: syntax error: identifier 'Baza'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(19): error C2061: syntax error: identifier 'Oferta'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(20): error C2061: syntax error: identifier 'string'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(23): error C2143: syntax error: missing ';' before '&'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(23): error C2433: 'ostream': 'friend' not permitted on data declarations
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(23): error C2238: unexpected token(s) preceding ';'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.h(8): error C2143: syntax error: missing ';' before '<'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.h(8): error C2238: unexpected token(s) preceding ';'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.h(9): error C2143: syntax error: missing ';' before '<'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.h(9): error C2238: unexpected token(s) preceding ';'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.h(18): error C2061: syntax error: identifier 'Oferta'
+  Mieszkanie.cpp
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(8): error C3646: 'warunki_umowy': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(11): error C2460: 'Umowa::Oferta': uses 'Umowa', which is being defined
+  \\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(5): note: see declaration of 'Umowa'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(14): error C2143: syntax error: missing ';' before '&'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(14): error C2433: 'ostream': 'friend' not permitted on data declarations
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(14): error C2238: unexpected token(s) preceding ';'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(10): error C3646: 'opis_oferty': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(14): error C2061: syntax error: identifier 'string'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(18): error C2143: syntax error: missing ';' before '&'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(18): error C2433: 'ostream': 'friend' not permitted on data declarations
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(18): error C2238: unexpected token(s) preceding ';'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(8): error C3646: 'imie': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(9): error C3646: 'nazwisko': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(10): error C3646: 'pesel': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(11): error C3646: 'adres_zamieszkania': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(12): error C2143: syntax error: missing ';' before '*'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(12): error C2238: unexpected token(s) preceding ';'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(16): error C2061: syntax error: identifier 'string'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(16): error C2535: 'Klient::Klient(void)': member function already defined or declared
+  \\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(15): note: see declaration of 'Klient::Klient'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(18): error C2061: syntax error: identifier 'Baza'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(20): error C2061: syntax error: identifier 'string'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(21): error C3646: 'dodajMieszkanie': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(21): error C2059: syntax error: '('
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(21): error C2238: unexpected token(s) preceding ';'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(23): error C2143: syntax error: missing ';' before '&'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(23): error C2433: 'ostream': 'friend' not permitted on data declarations
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(23): error C2238: unexpected token(s) preceding ';'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.h(8): error C2143: syntax error: missing ';' before '<'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.h(8): error C2238: unexpected token(s) preceding ';'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.h(9): error C2143: syntax error: missing ';' before '<'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.h(9): error C2238: unexpected token(s) preceding ';'
+  Klient.cpp
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\mieszkanie.h(9): error C3646: 'adres_mieszkania': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\mieszkanie.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\mieszkanie.h(14): error C2061: syntax error: identifier 'string'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\mieszkanie.h(14): error C2535: 'Mieszkanie::Mieszkanie(void)': member function already defined or declared
+  \\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\mieszkanie.h(12): note: see declaration of 'Mieszkanie::Mieszkanie'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\mieszkanie.h(15): error C2061: syntax error: identifier 'string'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(8): error C3646: 'warunki_umowy': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(11): error C2460: 'Umowa::Oferta': uses 'Umowa', which is being defined
+  \\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(5): note: see declaration of 'Umowa'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(14): error C2143: syntax error: missing ';' before '&'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(14): error C2433: 'ostream': 'friend' not permitted on data declarations
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(14): error C2238: unexpected token(s) preceding ';'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(10): error C3646: 'opis_oferty': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(14): error C2061: syntax error: identifier 'string'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(18): error C2143: syntax error: missing ';' before '&'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(18): error C2433: 'ostream': 'friend' not permitted on data declarations
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(18): error C2238: unexpected token(s) preceding ';'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.h(8): error C2143: syntax error: missing ';' before '<'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.h(8): error C2238: unexpected token(s) preceding ';'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.h(9): error C2143: syntax error: missing ';' before '<'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.h(9): error C2238: unexpected token(s) preceding ';'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.cpp(38): error C2039: 'warunki_umowy': is not a member of 'Umowa'
+  \\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(5): note: see declaration of 'Umowa'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.cpp(65): error C2039: 'adres_mieszkania': is not a member of 'Mieszkanie'
+  \\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\mieszkanie.h(5): note: see declaration of 'Mieszkanie'
+  Baza.cpp
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\mieszkanie.h(9): error C3646: 'adres_mieszkania': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\mieszkanie.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\mieszkanie.h(14): error C2061: syntax error: identifier 'string'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\mieszkanie.h(14): error C2535: 'Mieszkanie::Mieszkanie(void)': member function already defined or declared
+  \\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\mieszkanie.h(12): note: see declaration of 'Mieszkanie::Mieszkanie'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\mieszkanie.h(15): error C2061: syntax error: identifier 'string'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(8): error C3646: 'warunki_umowy': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(11): error C2460: 'Umowa::Oferta': uses 'Umowa', which is being defined
+  \\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(5): note: see declaration of 'Umowa'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(14): error C2143: syntax error: missing ';' before '&'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(14): error C2433: 'ostream': 'friend' not permitted on data declarations
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\umowa.h(14): error C2238: unexpected token(s) preceding ';'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(10): error C3646: 'opis_oferty': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(14): error C2061: syntax error: identifier 'string'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(18): error C2143: syntax error: missing ';' before '&'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(18): error C2433: 'ostream': 'friend' not permitted on data declarations
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\oferta.h(18): error C2238: unexpected token(s) preceding ';'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(8): error C3646: 'imie': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(9): error C3646: 'nazwisko': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(10): error C3646: 'pesel': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(11): error C3646: 'adres_zamieszkania': unknown override specifier
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(16): error C2061: syntax error: identifier 'string'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(16): error C2535: 'Klient::Klient(void)': member function already defined or declared
+  \\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(15): note: see declaration of 'Klient::Klient'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(18): error C2061: syntax error: identifier 'Baza'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(20): error C2061: syntax error: identifier 'string'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(23): error C2143: syntax error: missing ';' before '&'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(23): error C2433: 'ostream': 'friend' not permitted on data declarations
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\klient.h(23): error C2238: unexpected token(s) preceding ';'
+\\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.cpp(20): error C2679: binary '<<': no operator found which takes a right-hand operand of type 'Oferta' (or there is no acceptable conversion)
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(495): note: could be 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(475): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(455): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(435): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(415): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(395): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(375): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(355): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(335): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(315): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(290): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(270): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(236): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(216): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(209): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(202): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(196): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(1019): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const std::error_code &)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(981): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>,Oferta>(std::basic_ostream<char,std::char_traits<char>> &&,const _Ty &)'
+          with
+          [
+              _Ty=Oferta
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(971): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,unsigned char)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(964): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const unsigned char *)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(957): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,signed char)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(950): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const signed char *)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(824): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(777): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(739): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(692): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+  \\krywan\redirecteduserfolders\kpakos\downloads\inz_oprogramowania-mattett-patch-2\baza.cpp(20): note: while trying to match the argument list '(std::ostream, Oferta)'
+  Generating Code...
