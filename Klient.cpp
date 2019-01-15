@@ -40,7 +40,7 @@ Umowa Klient::zawrzyjUmowe(Oferta o)
 	Umowa nowa;
 	nowa.warunki_umowy = o;
 
-	cout << "Umowa " << nowa.ID_umowy << " zostala zawarta " << endl;
+	cout << "Umowa " << nowa.id_umowy << " zostala zawarta " << endl;
 	return nowa ;
 }
 
@@ -68,7 +68,7 @@ Mieszkanie Klient::dodajMieszkanie()
 	nowe.adres_mieszkania = adres;
 	nowe.wartosc_mieszkania = wartosc;
 	
-	cout << "Mieszkanie " << nowe.ID_mieszkania << " zostalo dodane " << endl;
+	cout << "Mieszkanie " << nowe.id_mieszkania << " zostalo dodane " << endl;
 
 	return nowe;
 }

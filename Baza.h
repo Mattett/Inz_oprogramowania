@@ -16,6 +16,7 @@ public:
 	void przegladajOferty();
 	bool dodajUmowe(Umowa);
 	bool dodajOferte(Oferta);
+	bool usunOferte(Oferta);
 
 
 };

@@ -32,3 +32,8 @@ bool Baza::dodajOferte(Oferta o)
 	oferty_lista.push_back(o);
 	return true;
 }
+
+bool Baza::usunOferte(Oferta o)
+{
+	return true;
+}
